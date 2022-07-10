@@ -1,2 +1,2 @@
-# devOpsProjects
-These projects are all about CI/CD pipelines
+# devOpsProject
+this project is for java-maven-app-complete-pipeline for ecr-eks
